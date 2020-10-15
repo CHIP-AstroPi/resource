@@ -3,8 +3,20 @@
  Repo containing useful resources
 
 
+## Theory:pencil2:
+ - [Human impact on the environment](https://en.wikipedia.org/wiki/Human_impact_on_the_environment#Human_overpopulation)
+ 
+ - [Environment degradations](https://en.wikipedia.org/wiki/Environmental_degradation#See_also)
+ 
+ - [Biodiversity loss](https://en.wikipedia.org/wiki/Biodiversity_loss)
+ 
+ - [Pollution](https://en.wikipedia.org/wiki/Pollution)
+ 
+ - [I = PAT](https://en.wikipedia.org/wiki/I_%3D_PAT)
 
-## Machine learning :scroll:
+
+
+## Machine learning:scroll:
 
 - [Google crash course](https://developers.google.com/machine-learning/crash-course)
 
