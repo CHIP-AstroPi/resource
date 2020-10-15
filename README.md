@@ -1,5 +1,3 @@
-<img title="image" src="https://github.com/CHIP-AstroPi/resource/blob/main/AstroPi_key_visual_pillars.png" alt="" width="377" data-align="center">
-
 # Resource
 
  Repo containing useful resources
@@ -90,5 +88,7 @@
 - [Image parsing: An advanced approach for image identification - IEEE Conference Publication](https://ieeexplore.ieee.org/document/6413022)
 
 - [Image Parsing: Unifying Segmentation, Detection, and Recognition | SpringerLink](https://link.springer.com/article/10.1007/s11263-005-6642-x)
+
+<img title="image" src="https://github.com/CHIP-AstroPi/resource/blob/main/AstroPi_key_visual_pillars.png" alt="" width="377" data-align="center">
   
   
