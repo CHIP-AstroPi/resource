@@ -1,3 +1,5 @@
+<img title="image" src="https://github.com/CHIP-AstroPi/resource/AstroPi_key_visual_pillars.png" alt="" width="377" data-align="center">
+
 # Resource
 
  Repo containing useful resources
