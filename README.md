@@ -13,6 +13,8 @@
  - [Pollution](https://en.wikipedia.org/wiki/Pollution)
  
  - [I = PAT](https://en.wikipedia.org/wiki/I_%3D_PAT)
+ 
+ - [Magnetic field](https://web.ua.es/docivis/magnet/earths_magnetic_field2.html)
 
 
 
@@ -27,6 +29,16 @@
 - [Deep learning introduction](https://campus.datacamp.com/courses/introduction-to-deep-learning-in-python/basics-of-deep-learning-and-neural-networks?ex=1)
 
 - [Tensorflow for beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
+
+- [Machine learning examples and algorithm](https://github.com/trekhleb/homemade-machine-learning)
+
+- [DataScience handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+- [Machine learning with jupyter](https://github.com/hangtwenty/dive-into-machine-learning)
+
+- [Tensorflow examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
+- [Earth engine](https://github.com/google/earthengine-api)
 
 
 
@@ -59,6 +71,13 @@
 - [(PDF) An algorithm for coastline detection using SAR images](https://www.researchgate.net/publication/232267436_An_algorithm_for_coastline_detection_using_SAR_images)
 
 - [An Algorithm for Coastline Extractionfrom Satellite Imagery](https://www.iaras.org/iaras/filedownloads/ijc/2017/006-0002(2017).pdf)
+
+
+
+##### Remote sensing
+
+ - [Remote sensing Wikipedia](https://en.wikipedia.org/wiki/Remote_sensing)
+
 
 
 
